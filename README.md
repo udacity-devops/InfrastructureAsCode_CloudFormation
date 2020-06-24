@@ -16,5 +16,4 @@ make name=sample_name
 # Delete the stack you created
 make delete name=sample_name
 ```
-
-![infrastructure-diagram](./AWS Infrastructure Diagram.jpeg?raw=true "Infrastructure Diagram")
+![infrastructure-diagram](https://raw.githubusercontent.com/udacity-devops/InfrastructureAsCode_CloudFormation/master/AWS%20Infrastructure%20Diagram.jpeg)
