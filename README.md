@@ -14,6 +14,6 @@ The Makefile manages and runs the necessary scripts, but you will also need to m
 make name=sample_name
 
 # Delete the stack you created
-make delete name=sample_name
+make delete -B name=sample_name
 ```
 ![infrastructure-diagram](https://raw.githubusercontent.com/udacity-devops/InfrastructureAsCode_CloudFormation/master/AWS%20Infrastructure%20Diagram.jpeg)
