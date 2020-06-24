@@ -17,4 +17,4 @@ make name=sample_name
 make delete name=sample_name
 ```
 
-![infrastructure-diagram](/AWS Infrastructure Diagram.jpeg?raw=true "Infrastructure Diagram")
+![infrastructure-diagram](./AWS Infrastructure Diagram.jpeg?raw=true "Infrastructure Diagram")
